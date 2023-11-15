@@ -12,8 +12,30 @@ h6 {
     text-transform: capitalize;
 }
 
+ul {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+img {
+    display: block;
+    min-width: 100%;
+}
+
+button {
+    display: block;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
 body {
     background-color: #1a1a1a;
     font-family: 'Barlow', sans-serif;
     color: #e6e6e6;
 }
+
