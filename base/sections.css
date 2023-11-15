@@ -1,0 +1,25 @@
+.hero-section {
+    
+}
+
+.hero-title {
+    padding-top: 80px;
+    max-width: 358px;
+    color: var(--absolute-white, #FFF);
+    text-align: center;
+    font-family: 'Barlow', sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hero-list {}
+
+.hero-item {}
+
+.prgr-item {}
+
+.works-btn {}
+
+.contacts-btn {}

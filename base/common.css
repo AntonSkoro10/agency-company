@@ -4,11 +4,16 @@ h3,
 h4,
 h5,
 h6 {
-
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    text-transform: capitalize;
 }
 
 body {
-    background-color: #262626;
+    background-color: #1a1a1a;
     font-family: 'Barlow', sans-serif;
     color: #e6e6e6;
 }
